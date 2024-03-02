@@ -1,6 +1,0 @@
-redis:
-  host: redis-14722.c267.us-east-1-4.ec2.cloud.redislabs.com
-  db: 0
-  user: default
-  password: O8evXdYCqPCgB0XiXPhfSYBlmD8glZ39
-  port: 14722
